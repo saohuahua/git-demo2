@@ -1,0 +1,1 @@
+let testSSH:string="use SSH key to connect remote respository"
